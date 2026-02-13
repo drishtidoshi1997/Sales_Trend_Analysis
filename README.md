@@ -99,7 +99,7 @@ Adidas-Sales-Analysis/
 ---
 
 ## 🔗 Links
-- **Tableau Public:** [View Dashboard](#) *(link to be added)*
+- **Tableau Public:** https://github.com/drishtidoshi1997/Sales-Trend-Analysis/blob/main/Tableau_Dashboard_Adidas%20(1).twbx
 - **GitHub:** [github.com/drishtidoshi1997/Sales-Trend-Analysis](https://github.com/drishtidoshi1997/Sales-Trend-Analysis)
 - **Dataset:** [Kaggle Adidas Sales Dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
 
